@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here is a bit about my daily tech stack, favorite 
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **C++, QT, Linux, Python,, MySQL**
+- 🌱 I’m currently learning **C++, QT, Linux, Python, MySQL**
 
 - 👨‍💻 Computer Engineering Student at **Minas Gerais Federal University (UFMG)**
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here is a bit about my daily tech stack, favorite 
 
 ---
 
-### 🛠️ Languages
+### 🔤 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
