@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Dimarco</h1>
 <h3 align="center">Computer Engineering student and developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermedimarco&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermedimarco" /> </p>
@@ -12,6 +12,9 @@
 - 📫 How to reach me **guilherme2005dimarco@gmail.com**
 
 - ⚡ Fun fact **I'm a Crypto enthusiast and my favorite sport is football**
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
