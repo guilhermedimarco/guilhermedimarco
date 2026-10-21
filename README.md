@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here is a bit about my daily tech stack, favorite 
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **C++, QT, Linux, Python, MySQL**
+- 🌱 I’m currently learning **C, Embbeded Systems, Bare metal, C++, QT, Linux,**
 
 - 👨‍💻 Computer Engineering Student at **Minas Gerais Federal University (UFMG)**
 
